@@ -1,4 +1,4 @@
-package com.olawole.portfolio.controllers;
+package com.olawole.portfolio.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
